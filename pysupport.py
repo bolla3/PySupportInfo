@@ -24,7 +24,3 @@ f.write(additional_info)
 #And then closing the text document
 
 f.close()
-
-#closing the program
-if done = exit
-done
