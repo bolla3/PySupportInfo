@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # # # # # # # # # # # # # # # # # # # # # # # # # #
-#    Created by bolla3 (thelifeofbolla3.tk)	  # 
+#    Created by bolla3 (bolla3.net)	  # 
 #                                                 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
